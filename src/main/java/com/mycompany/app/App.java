@@ -12,7 +12,7 @@ public class App
 
     public static void main(String[] args) {
         System.out.println(new App().getMessage());
-System.out.println("my nfirst build ");
+System.out.println("my second build ");
     }
 
     private final String getMessage() {
